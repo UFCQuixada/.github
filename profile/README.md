@@ -1,12 +1,12 @@
 # UFC Campus Quixadá
+<img src="fotoUFC.png" alt="Foto aérea do campus UFC Quixadá" height=250>
 
-## Sobre o Campus Quixadá da UFC
 
 O Campus da Universidade Federal do Ceará (UFC) em Quixadá é referência em ensino, pesquisa e inovação tecnológica no interior do Ceará. Com cursos voltados para áreas de tecnologia, design, engenharia, computação e afins, o campus fomenta o desenvolvimento regional e nacional, promovendo projetos de impacto e parcerias estratégicas.
 
 Esta organização foi criada para armazenar e manter projetos importantes relacionados a aplicações mobile e web (front-end e backend), bibliotecas, interfaces de linha de comando (CLI), aplicações desktop, documentação, IoT e sistemas embarcados. Aqui estão recursos essenciais para o desenvolvimento e colaboração em diversos projetos da universidade.
 
-## About UFC Quixadá Campus
+---
 
 The Federal University of Ceará (UFC) campus in Quixadá is a reference in education, research, and technological innovation in the interior of Ceará, Brazil. With courses focused on technology, design, engineering, computing, and related fields, the campus fosters regional and national development, promoting impactful projects and strategic partnerships.
 
